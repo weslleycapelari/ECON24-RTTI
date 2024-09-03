@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2024-08-22T22:47:30.6481817-03:00",
+	"installedModules": {
+		"https://github.com/weslleycapelari/rtti4d": {
+			"name": "rtti4d",
+			"version": "1.0.1",
+			"hash": "10170026f444928c5809eff440cc4853",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
